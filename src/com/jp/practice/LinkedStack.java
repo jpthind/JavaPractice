@@ -2,7 +2,7 @@ package com.jp.practice;
 
 public class LinkedStack  {
 
-    static interface Linkable {
+    public static interface Linkable {
         public Linkable getNext();
         public void setNext(Linkable node);
 

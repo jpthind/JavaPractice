@@ -6,7 +6,7 @@ public class Weird {
     // A static member interface used below
 
     public static interface IntHolder {
-        public int getValue();
+         int getValue();
     }
 
 

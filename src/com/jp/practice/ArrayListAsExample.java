@@ -53,8 +53,7 @@ public class ArrayListAsExample {
         myInts.add(1);
         myInts.add(2);
 
-       // List myNums = myInts; //compiler error
-     //  myNums = new ArrayList<Double> ();
+
         myInts.add(3.0);
 
 

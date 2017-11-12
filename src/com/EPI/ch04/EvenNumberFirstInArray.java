@@ -15,7 +15,7 @@ public class EvenNumberFirstInArray {
         for (int i = 0; i < inputArray.length; i++) {
 
             //  if number is even , then bring it next position
-            if ((inputArray[i] % 2) == 0 ) {
+            if ((inputArray[i] % 2) ==  0 ) {
                 swapArrayElements(inputArray, i, lastEvenIndexCounter);
                 lastEvenIndexCounter++;
             }

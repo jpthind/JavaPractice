@@ -9,7 +9,7 @@ public class CheckParity {
 
     }
 
-    public void checkParity(int x) {
+     void checkParity(int x) {
 
     }
 }
