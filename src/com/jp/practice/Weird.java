@@ -1,5 +1,6 @@
 package com.jp.practice;
 
+import static java.lang.System.out;
 //local class
 
 public class Weird {
@@ -26,7 +27,7 @@ public class Weird {
         }
 
         for (int i = 0; i < 10; i++) {
-            System.out.println(holders[i].getValue());
+            out.println(holders[i].getValue());
         }
     }
 }
