@@ -22,6 +22,7 @@ public class ArrayListAsExample {
         //{1,2,3};
         for (Number n: numbers
              ) {
+
             out.println(n);
 
 

@@ -23,7 +23,7 @@ public class Singleton {
 
     @Override
     public String toString() {
-        return "EKONKAR";
+        return "EKONKAR JI";
     }
 
     public static void main(String[] args) {

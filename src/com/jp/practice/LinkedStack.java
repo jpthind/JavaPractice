@@ -29,6 +29,7 @@ public class LinkedStack  {
 
         @Override
         public Linkable getNext() {
+
             return next;
 
         }
